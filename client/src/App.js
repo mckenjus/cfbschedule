@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./components/Header";
-import HomePage from "./components/HomePage";
-import Games from "./components/games";
+import HomePage from "./HomePage";
+import Games from "./games";
 
 
 function App () {
